@@ -1,4 +1,5 @@
 Blue Team: Summary of Operations
+
 **Table of Contents**
 * Network Topology
 * Description of Targets
@@ -98,4 +99,6 @@ Why It Works: This will salt all passwords making it harder to decrypt. It will 
 Create a policy that ensures that users get the proper privileges that are needed to do their tasks. Also create a password to run root features. 
 Why It Works: Creating this type of policy reduces the chances of an attacker being able to traverse, access, and modify files from a user account to otherwise unauthorized sections.
 
+
+I recommend to go through the [presentation](https://docs.google.com/presentation/d/1RIoNwL_GauuUdww3NChPaX4c1LxwoI2MzV9uYMdgHsg/edit?usp=sharing) has it goes into further detail.
 
