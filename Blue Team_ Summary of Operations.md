@@ -126,5 +126,5 @@ Create a policy that ensures that users get the proper privileges that are neede
 Why It Works: Creating this type of policy reduces the chances of an attacker being able to traverse, access, and modify files from a user account to otherwise unauthorized sections.
 
 
-I recommend to go through the [presentation](https://docs.google.com/presentation/d/1RIoNwL_GauuUdww3NChPaX4c1LxwoI2MzV9uYMdgHsg/edit?usp=sharing) has it goes into further detail.
+I recommend to go through the [presentation](https://docs.google.com/presentation/d/1RIoNwL_GauuUdww3NChPaX4c1LxwoI2MzV9uYMdgHsg/edit?usp=sharing) has it goes into further detail and visual aids.
 
